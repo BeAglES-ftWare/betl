@@ -6,7 +6,7 @@ First, make sure you have [Rust](https://www.rust-lang.org/learn/get-started) in
 
 Install [Visual Studio C++ build tools from Microsoft website](https://aka.ms/vs/17/release/vs_BuildTools.exe) If you have Windows, otherwise install `gcc` and `g++` with your system package manager
 
-It's good to check for a new update if you have Rust installed previously
+It's good to check for a new update if you have Rust installed already
 ```
 rustup update
 ```
